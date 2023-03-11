@@ -1,6 +1,5 @@
 <?php
 
-// config for Ilasisi/SendInBlue
 return [
-
+    'api_key' => env('SENDINBLUE_API_KEY', 'api-key here')
 ];
