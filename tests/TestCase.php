@@ -2,9 +2,9 @@
 
 namespace Ilasisi\SendInBlue\Tests;
 
+use Ilasisi\SendInBlue\SendInBlueServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ilasisi\SendInBlue\SendInBlueServiceProvider;
 
 class TestCase extends Orchestra
 {
