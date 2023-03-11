@@ -34,8 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ilasisi\\SendInBlue\\": "src",
-            "Ilasisi\\SendInBlue\\Database\\Factories\\": "database/factories"
+            "Ilasisi\\SendInBlue\\": "src"
         }
     },
     "autoload-dev": {
