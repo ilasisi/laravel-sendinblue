@@ -2,9 +2,9 @@
 
 namespace Ilasisi\SendInBlue;
 
+use Ilasisi\SendInBlue\Commands\SendInBlueCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ilasisi\SendInBlue\Commands\SendInBlueCommand;
 
 class SendInBlueServiceProvider extends PackageServiceProvider
 {
