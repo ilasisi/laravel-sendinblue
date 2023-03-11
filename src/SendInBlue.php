@@ -22,7 +22,7 @@ class SendInBlue
      */
     public $config;
 
-     /**
+    /**
      * SendInBlue Account Instance
      *
      * @var ContactsApi
