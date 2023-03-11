@@ -4,8 +4,8 @@ namespace Ilasisi\SendInBlue;
 
 class SendInBlue
 {
-    static public function checkIfWorks()
+    public static function checkIfWorks()
     {
-        echo("it works");
+        echo 'it works';
     }
 }
